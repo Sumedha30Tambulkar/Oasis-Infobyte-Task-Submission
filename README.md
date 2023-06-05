@@ -6,4 +6,3 @@ Input characteristics are:
 -Sepal width
 -Petal length
 -Petal width
-Importing all essential libraries.
