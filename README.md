@@ -5,5 +5,5 @@ Input characteristics are:
 -Sepal length
 -Sepal width
 -Petal length
--Petal width\n\n
+-Petal width
 Importing all essential libraries.
