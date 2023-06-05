@@ -1,4 +1,5 @@
 # Oasis-Infobyte-Task-Submission
+## Task 1 
 The aim is to classify Iris flower into its three species setosa, virginica and versicolor based on their sepal and petal
 measurements.
 Input characteristics are:
